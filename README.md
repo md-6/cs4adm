@@ -1,2 +1,3 @@
-# cs4adm
-Minecraft web console template (php + bootstrap 4)
+# CS4ADM 
+## 0.1
+Minecraft web console on BOOTSTRAP 4 with PHP
